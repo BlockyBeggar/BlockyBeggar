@@ -2,7 +2,7 @@
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning Minecraft modding on MCreator
 - 💞️ I’m looking to collaborate on Minecraft Mods
-- 📫 How to reach me Don't
+- 📫 How to reach me: Don't
 
 <!---
 BlockyBeggar/BlockyBeggar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
